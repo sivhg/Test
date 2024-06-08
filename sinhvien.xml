@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dssinhvien xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="qlsv.xsd">
+    <sinhvien>
+        <masv>sv01</masv>
+        <tensv>Phan Tuan Cuong</tensv>
+        <gioitinh>Nam</gioitinh>
+        <malop>CNTT10</malop>
+        <diem>5</diem>
+    </sinhvien>
+    <sinhvien>
+        <masv>sv02</masv>
+        <tensv>Vuong Thu Phuong</tensv>
+        <gioitinh>Nu</gioitinh>
+        <malop>CNTT10</malop>
+        <diem>9</diem>
+    </sinhvien>
+    <sinhvien>
+        <masv>sv03</masv>
+        <tensv>Pham Duc Nguyen</tensv>
+        <gioitinh>Nam</gioitinh>
+        <malop>TCKT10</malop>
+        <diem>8</diem>
+    </sinhvien>
+    <sinhvien>
+        <masv>sv04</masv>
+        <tensv>Truong Yen Nhi</tensv>
+        <gioitinh>Nu</gioitinh>
+        <malop>TCKT10</malop>
+        <diem>10</diem>
+    </sinhvien>
+</dssinhvien>
